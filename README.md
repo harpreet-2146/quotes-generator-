@@ -8,8 +8,6 @@ The JavaScript uses the fetch() method to make a request to the quotable.io API,
 
 The API returns a JSON object containing the quote and author.
 
-The quote and author are displayed inside the <blockquote> and <span> elements.
-
 
 Disabling the Button:
 
